@@ -1,4 +1,4 @@
-# Library Management System 📚
+# Library Management System 
 
 Welcome to the **Library Management System**, a robust and efficient application designed to manage books, users, and loan records seamlessly. Built with **Laravel**, **Vue.js**, and **Inertia.js**, this system leverages modern web technologies for a smooth and intuitive user experience.
 
